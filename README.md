@@ -1,2 +1,2 @@
-# Hackathon-2-Html-and-Css-Bootcamp
+# Tekko-Hackathon-2
 Hackathon 2 Creating the navbar of Shopee 
